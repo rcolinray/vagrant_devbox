@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # Checkout TACCS source
 if ! [-d taccs ]; then
