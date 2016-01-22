@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 # Checkout TACCS source
-if ! [-d taccs ]; then
+if ! [ -d taccs ]; then
 	git clone git@github.com:priority5/taccs.git
 fi
 cd taccs
