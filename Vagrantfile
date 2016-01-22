@@ -32,7 +32,7 @@ Vagrant.configure("2") do |config|
 			cp /vagrant/vimrc ~/.vimrc
 
 			git config --global user.name = "Colin Ray"
-			git config --global user.email = "r.colinray@gmail.com"
+			git config --global user.email = "colin@priority5.com"
 		SHELL
 	end
 
